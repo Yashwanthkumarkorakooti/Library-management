@@ -7,7 +7,7 @@ pip install -r requirements.txt
 python main.py
 
 
-This project is a medium-level rewrite of your console hospital management app. It includes:
+This project is a medium-level rewrite of your console Library management app. It includes:
 •	OOP (dataclasses for models)
 •	Exception handling
 •	MS SQL Server integration using pyodbc
@@ -20,7 +20,7 @@ This project is a medium-level rewrite of your console hospital management app. 
 
 Files
 
-hospital_management/
+Library_management/
 ├─ .env.example
 ├─ requirements.txt
 ├─ database.py
