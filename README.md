@@ -16,7 +16,7 @@ This project is a medium-level rewrite of your console Library management app. I
 •	Data mapping between SQL rows and Python objects
 •	Database utility and connection management (context managers, basic retry)
 •	Console-based user interface
-•	Appointment management (appointments table + scheduling)
+
 
 Files
 
